@@ -41,6 +41,3 @@ end
 	</dict>
 ```
 
-
-Copyright © The App Brewery
-
