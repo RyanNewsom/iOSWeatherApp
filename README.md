@@ -1,11 +1,7 @@
 # Clima
 This is a weather app I built by following a udemy course on iOS development. This is the 6th iOS app I have built but the first one worth going on github.
 
-Learn to make iOS Apps with [The App Brewery](https://www.appbrewery.co) 📱 | Project Stub | (Swift 4.0/Xcode 9) - Clima App
-
-Beginner: Download the starter project files as .zip and extract the files to your desktop.
-
-Pro: Git clone to your Xcode projects folder.
+Learn to make iOS Apps with [The App Brewery](https://www.appbrewery.co) 📱 |
 
 ## Finished App
 ![Finished App](https://github.com/londonappbrewery/Images/blob/master/Clima.gif)
@@ -39,5 +35,12 @@ end
 			</dict>
 		</dict>
 	</dict>
+```
+
+## Installing
+```
+pod update
+pod install
+open Clima.xcworkspace
 ```
 
